@@ -23,9 +23,10 @@ projects:
     - stars
   limit: 9
   exclude:
-    # forks: true
+    forks: false
     projects:
     - some-wireframes
+    - jdwelch.github.io
 
 # social_media:
   # behance: your_username
